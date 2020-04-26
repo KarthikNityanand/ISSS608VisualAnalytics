@@ -1,0 +1,12 @@
+name: SMU_Library_Survey_Analysis
+title: SMU_Library_Survey_Analysis
+username:
+account: karthikn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2163384
+bundleId: 3049294
+url: https://karthikn.shinyapps.io/SMU_Library_Survey_Analysis/
+when: 1587553169.16464
+asMultiple: FALSE
+asStatic: FALSE

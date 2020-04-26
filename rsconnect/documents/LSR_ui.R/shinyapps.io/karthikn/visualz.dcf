@@ -1,0 +1,12 @@
+name: visualz
+title: visualz
+username:
+account: karthikn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2164097
+bundleId: 3049637
+url: https://karthikn.shinyapps.io/visualz/
+when: 1587558858.92213
+asMultiple: FALSE
+asStatic: FALSE
